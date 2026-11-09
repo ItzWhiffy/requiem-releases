@@ -1,6 +1,26 @@
 # Changelog
 
 
+## 0.3.1 (2026-11-09)
+
+- Slot locking: an empty locked slot takes items again, and the line of a binding is drawn only after you hold the lock key for a second.
+- Inventory buttons no longer show in dungeon terminals and in the Experimentation Table games.
+- Item rarity colors now also show in the auction house, whose items list the seller and the bids after the rarity.
+- Hide armor also hides skull helmets. The elytra option is gone, SkyBlock has none.
+- Mention chime stays quiet for your own messages and for your name inside another word.
+- Fairy Souls read the island and the profile from the tab list, so they show up on Hypixel.
+- Entity overlay leaves out SkyBlock NPCs when Hide NPCs is on.
+- Deployable timers match whole words only, skip mob health tags and have a range setting, in a new panel look.
+- Profit tracker adds the coins in your purse, says when prices are unavailable and has a panel look.
+- Chest value: the unpriced note no longer sticks out of the panel.
+- Scrollable tooltips can move every tooltip with the wheel, not only tall ones. Turn it off in the settings if you prefer.
+- The Array list matches the accent of your theme, with panels and a fade, and still has a color of its own to pick.
+- The Inventory HUD lost its armor and offhand row.
+- The hotbar's wells, selection and rarity colors sit exactly in the middle of each slot.
+- Profile viewer: the setup text now says how to get a Hypixel development key.
+- Entity overlay tags hang over the head and shrink with distance instead of growing as you walk away.
+- The Infobar grows its update status in smoothly and gives back the room when the text gets shorter.
+
 ## 0.3.0 (2026-11-08)
 
 - New Macros area: Experiment macro plays Chronomatron, Ultrasequencer and Superpairs for you, with a stats card, failsafes and optional renewals. Automation can get your account banned: it is off until you switch it on.
