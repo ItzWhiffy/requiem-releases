@@ -1,6 +1,12 @@
 # Changelog
 
 
+## 0.3.2 (2026-11-09)
+
+- Entity overlay: four outline styles (3D box, 3D corners, 2D box, 2D corners), a fill with its own strength, and a picture on the page that shows the look as you change it.
+- Entity overlay: pick the mobs to show from the whole Bestiary, 255 mobs sorted by place, with a search.
+- New Toggle sprint: sprints for you while you walk forward.
+
 ## 0.3.1 (2026-11-09)
 
 - Slot locking: an empty locked slot takes items again, and the line of a binding is drawn only after you hold the lock key for a second.
